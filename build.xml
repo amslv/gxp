@@ -2,7 +2,7 @@
 <project name="gxp" default="dist">
 
     <description>
-        GXP Build File
+        GXP ABuild File
     </description>
 
     <property name="src" location="src"/>
